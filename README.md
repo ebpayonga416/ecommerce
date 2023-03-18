@@ -1,5 +1,5 @@
 # ecommerce
-To run this website you need to first download and install alocalhost server like for example XAMPP.
+To run this website you need to first download and install a localhost server like for example XAMPP.
 
   1. &nbsp; Download the scripts from this repository, and unzip this 
      to "C:\xampp\htdocs\midterm_db" the "midterm_db" is a new folder you need to create.
